@@ -1,15 +1,21 @@
+# Archivos generados por el IDE
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/.idea/*
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+
+# Archivos generados por Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos de configuración local
+/local.properties
+
+# Otros archivos a ignorar
+*.log
+*.apk
+*.hprof
+*.jks
+*.keystore
