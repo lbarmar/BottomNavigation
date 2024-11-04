@@ -7,7 +7,7 @@ Este repositorio contiene el código fuente de una aplicación de ejemplo desarr
 - **Bottom Navigation**: Implementación de un menú de navegación en la parte inferior que permite la navegación entre diferentes secciones de la aplicación.
 - **NavHostFragment**: Uso de `NavHostFragment` para gestionar la navegación entre fragmentos de manera intuitiva.
 - **View Binding**: Utilización de View Binding para un manejo más seguro y limpio de las vistas.
-- **Fragmentos**: Ejemplo de tres fragmentos simples: `HomeFragment`, `DashboardFragment` y `NotificationsFragment`.
+- **Fragmentos**: Ejemplo de tres fragmentos simples: `HomeFragment`, `DashboardFragment` y `MapFragment`.
 
 ## Capturas de Pantalla
 

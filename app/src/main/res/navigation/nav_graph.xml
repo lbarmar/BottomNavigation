@@ -14,8 +14,8 @@
         android:label="Dashboard" />
 
     <fragment
-        android:id="@+id/notificationsFragment"
-        android:name="dam.pmdm.bottomnavigation.NotificationsFragment"
-        android:label="Notifications" />
+        android:id="@+id/mapFragment"
+        android:name="dam.pmdm.bottomnavigation.MapFragment"
+        android:label="Map" />
 
 </navigation>
