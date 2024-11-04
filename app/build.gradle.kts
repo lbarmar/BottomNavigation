@@ -40,6 +40,8 @@ android {
 }
 
 dependencies {
+    implementation("com.google.android.gms:play-services-maps:19.0.0")
+
     implementation ("androidx.navigation:navigation-fragment-ktx:2.6.0")
     implementation ("androidx.navigation:navigation-ui-ktx:2.6.0")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0'")
